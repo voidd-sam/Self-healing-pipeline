@@ -16,6 +16,9 @@
 > in a dbt warehouse — then opens a pull request and waits for a human.
 </div>
 
+![Dasboard](assets/demo-dashboard.png)
+
+
 ## Overview
 
 Analytics pipelines fail in boring, predictable ways. A source system renames a
