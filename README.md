@@ -16,7 +16,7 @@
 > in a dbt warehouse — then opens a pull request and waits for a human.
 </div>
 
-![Dasboard](assets/SHP_BANNER.svg)
+![Dasboard](assets/shp-banner.png)
 
 
 ## Overview
